@@ -1,28 +1,14 @@
-[
-    {
-      "username": "john_doe",
-      "email": "john.doe@example.com",
-      "password": "password123"
-    },
-    {
-      "username": "jane_smith",
-      "email": "jane.smith@example.com",
-      "password": "securePass456"
-    },
-    {
-      "username": "alex_brown",
-      "email": "alex.brown@example.com",
-      "password": "alex2023!"
-    },
-    {
-      "username": "lisa_white",
-      "email": "lisa.white@example.com",
-      "password": "lisa@123"
-    },
-    {
-      "username": "michael_clark",
-      "email": "michael.clark@example.com",
-      "password": "mikePass789"
-    }
-  ]
-  
+{
+userdet: [
+{
+username: "thuve",
+password: "1234pass",
+email: "thuve@gmail.com"
+},
+{
+username: "rakan",
+password: "password",
+email: "rakan@hotmail.com"
+}
+]
+}
