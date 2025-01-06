@@ -1,14 +1,14 @@
 {
-userdet: [
-{
-username: "thuve",
-password: "1234pass",
-email: "thuve@gmail.com"
-},
-{
-username: "rakan",
-password: "password",
-email: "rakan@hotmail.com"
-}
-]
+  "userdet": [
+    {
+      "username": "thuve",
+      "password": "1234pass",
+      "email": "thuve@gmail.com"
+    },
+    {
+      "username": "rakan",
+      "password": "password",
+      "email": "rakan@hotmail.com"
+    }
+  ]
 }
